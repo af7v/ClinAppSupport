@@ -17,10 +17,10 @@
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_597219_clinapp_s</scope>
+        <scope>x_medpa_clinapp_su</scope>
         <scoped_administration>false</scoped_administration>
         <short_description>The ClinApp Support Team</short_description>
-        <source>x_597219_clinapp_s</source>
+        <source>x_medpa_clinapp_su</source>
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
