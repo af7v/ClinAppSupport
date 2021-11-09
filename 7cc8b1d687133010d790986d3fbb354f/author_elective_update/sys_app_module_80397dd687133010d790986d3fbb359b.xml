@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="ClinApp Support">b32931d687133010d790986d3fbb35f9</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Closed</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sc_task</name>
+        <order>1500</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>active=false^EQ</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-21 21:31:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>80397dd687133010d790986d3fbb359b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ClinApp Support" source="x_597219_clinapp_s">7cc8b1d687133010d790986d3fbb354f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ClinApp Support">7cc8b1d687133010d790986d3fbb354f</sys_scope>
+        <sys_update_name>sys_app_module_80397dd687133010d790986d3fbb359b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-09 19:30:08</sys_updated_on>
+        <timeline_page/>
+        <title>Closed</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ClinApp Support">7cc8b1d687133010d790986d3fbb354f</application>
+        <file_path/>
+        <instance_id>f67482eedb1f6810e26fd7c8f49619dd</instance_id>
+        <instance_name>dev110699</instance_name>
+        <name>sys_app_module_80397dd687133010d790986d3fbb359b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="ClinApp Support">b32931d687133010d790986d3fbb35f9</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Closed</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sc_task</name><order>1500</order><override_menu_roles>false</override_menu_roles><query>active=false^EQ</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-21 21:31:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>80397dd687133010d790986d3fbb359b</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Closed</sys_name><sys_overrides/><sys_package display_value="ClinApp Support" source="x_597219_clinapp_s">7cc8b1d687133010d790986d3fbb354f</sys_package><sys_policy/><sys_scope display_value="ClinApp Support">7cc8b1d687133010d790986d3fbb354f</sys_scope><sys_update_name>sys_app_module_80397dd687133010d790986d3fbb359b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-09 19:30:08</sys_updated_on><timeline_page/><title>Closed</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>390360356</payload_hash>
+        <record_name>Closed</record_name>
+        <reverted_from/>
+        <source>88b64d7d87633010d790986d3fbb3519</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-09 19:30:08</sys_created_on>
+        <sys_id>c383d35c87733010d790986d3fbb35cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d062ddbc50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-09 19:30:08</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4f83d35c8c733010bc7783829af3adcb</update_guid>
+        <update_guid_history>4f83d35c8c733010bc7783829af3adcb:390360356,10d013d879733010434666ef15520e04:642248896,04397dd62613301004622146f224e49c:-287966631</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Closed">6c68db5087b33010d790986d3fbb3507</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-09 19:51:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>4e349df9395c4f9a85e4bee01e957b11</sys_id>
+        <sys_metadata>80397dd687133010d790986d3fbb359b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_package display_value="ClinApp Support" source="x_597219_clinapp_s">7cc8b1d687133010d790986d3fbb354f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ClinApp Support">7cc8b1d687133010d790986d3fbb354f</sys_scope>
+        <sys_scope_delete display_value="">9d23e5c0606f4ea89e21e01cfe349b84</sys_scope_delete>
+        <sys_update_name>sys_app_module_80397dd687133010d790986d3fbb359b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_80397dd687133010d790986d3fbb359b">c383d35c87733010d790986d3fbb35cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-09 19:51:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
